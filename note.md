@@ -25,4 +25,6 @@ For Example : GITHUB_VN is a Project Name = Repo
 - git merger {branch name}
 - git branch -d {branch name} => [del a branch]
 
--git push => [push local repo to remote repo]
+- git push => [push local repo to remote repo]
+
+- git remote add origin {repo link}  => [create remote repo alias]
