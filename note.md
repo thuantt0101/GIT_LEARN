@@ -27,4 +27,6 @@ For Example : GITHUB_VN is a Project Name = Repo
 
 - git push => [push local repo to remote repo]
 
-- git remote add origin {repo link}  => [create remote repo alias]
+- git remote add origin {repo link}  => [create remote repo alias] , for push just type [ git push origin master]
+ 
+ 
