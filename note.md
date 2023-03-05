@@ -29,4 +29,4 @@ For Example : GITHUB_VN is a Project Name = Repo
 
 - git remote add origin {repo link}  => [create remote repo alias] , for push just type [ git push origin master]
  
- 
+ - git push -u {alias} {branch name}
