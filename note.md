@@ -34,3 +34,6 @@ For Example : GITHUB_VN is a Project Name = Repo
 - git clone {repo url}
 - git fetch origin
 - git checkout -b {branch name} origin/{branch name}
+
+- git pull {rego url} {branch name} => sync all change from remote repo to local repo
+    --allow-unrelated-histories : option to be used in a rare event that merges histories of two projects that started their lives independently.
